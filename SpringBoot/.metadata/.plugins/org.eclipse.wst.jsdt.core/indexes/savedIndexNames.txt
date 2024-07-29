@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+C:\rays software\workspace\SpringBoot\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3746063356.index
+3934811322.index
